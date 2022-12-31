@@ -1,0 +1,15 @@
+D:\Программирование\зсяп_сем\homework9\task68\bin\Debug\net7.0\task68.exe
+D:\Программирование\зсяп_сем\homework9\task68\bin\Debug\net7.0\task68.deps.json
+D:\Программирование\зсяп_сем\homework9\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+D:\Программирование\зсяп_сем\homework9\task68\bin\Debug\net7.0\task68.dll
+D:\Программирование\зсяп_сем\homework9\task68\bin\Debug\net7.0\task68.pdb
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\task68.csproj.AssemblyReference.cache
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\task68.dll
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\refint\task68.dll
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\task68.pdb
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+D:\Программирование\зсяп_сем\homework9\task68\obj\Debug\net7.0\ref\task68.dll
